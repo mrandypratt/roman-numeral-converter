@@ -1,0 +1,14 @@
+{
+  "name": "roman_numerals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andy Pratt",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
